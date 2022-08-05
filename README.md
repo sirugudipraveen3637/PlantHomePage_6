@@ -1,18 +1,18 @@
-# Street Style Landing Page
+# Plant Landing Page
 
-##### Published Url:-[Street Style Landing Page](https://62ec94dbce17ee76d794a367--sirugudi.netlify.app/)
+##### Published Url:-[Plant Home Page](https://celadon-duckanoo-6c150a.netlify.app/)
 
 
-<img src="https://github.com/sirugudipraveen3637/StreetStyleLandingPage_1/blob/main/1.png" height="60%" width="75%"/>
+<img src="https://github.com/sirugudipraveen3637/PlantHomePage_6/blob/main/6.png" height="60%" width="75%"/>
 
 
 ### Knowledge Gained:-
 
   
-  - Float
-  - Navigation Menu Positioning
-  - Type of Selectors
-  - Image Overlap
+  - Text unerline
+  - Unordered List
+  - list-type -selector
+  - button custom border radius
   
 ### Development Efforts:- 3.50 hours
   
